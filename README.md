@@ -1,4 +1,4 @@
-## AI/ML Engineer | Web Fullstack Engineer
+## Web Fullstack Engineer
 
 ### Languages
 
