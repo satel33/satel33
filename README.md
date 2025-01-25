@@ -33,14 +33,23 @@ Innovative AI/ML Engineer and dynamic Data Scientist providing a diverse range o
 ✅ **ML Architecture**: Feature/Training/Inference pipeline Architecture, Online Real-time pipeline/Asynchronous pipeline/Batch ML serving architecture, 4-stage architecture, Two-tower model (flexible neural network design)
 
 ✅ **Key Domains**: Regression, Classification, NLP, LLM, RAG, Computer Vision, Neural Networks, Ensemble Methods, Clustering, Dimensionality Reduction
+
 ✅ **Data Engineering**: dbt, Terraform, SQL, BigQuery, PySpark, Databricks
+
 ✅ **MLOps**: AWS(AWS SageMaker, Fargate, lambda, S3 Bucket, SQS, VPN), GCP(Vertex AI, GCR, GKE, GCS, pub/sub), Azure(Data Factory, SQL Data Warehouse, Synapse), Cosmos DB, W&B, MLFlow, Comet ML,Qwak, Databricks, Apache Spark, Kafka, Bytewax
+
 ✅ **LLM**: OpenAI, Anthropic, Azure, Llama-3, Mistral, Multi-modal LLM(TTS/STT/VST/AST), SDXL, Gemini, Perplexity, RAG, TAG, KAG
+
 ✅ **APIs**: Flask, FastAPI
+
 ✅ **Apps**: Streamlit, Gradio
+
 ✅ **Cloud Platforms**: GCP, AWS, Azure
+
 ✅ **CI/CD**: Git, GitLab, Jenkins, Docker, Kubernetes, CircleCI, Terraform, CDK, Pulumi
+
 ✅ **Orchestrator**: Docker Swarm, ECS, K8s, Airflow, Kubeflow, ZenML, PipeDream
+
 ✅ **Streaming**: Apache Kafka, Bytewax, CDC pattern, RabbitMQ, GCP pub/sub
 
 
@@ -57,7 +66,34 @@ Innovative AI/ML Engineer and dynamic Data Scientist providing a diverse range o
 | Contributing | Guidelines for contributing to the project |
 | License | License information |
 
+# ML/MLOps Projects
 
+## Project Name: MLOps Credit Default
+
+### Main Libraries/Tools
+- Scikit-learn
+- LightGBM
+- MLflow
+- Databricks
+
+### Cloud Service
+- AWS / Databricks
+
+### App
+- [MLOps Credit Default](#)
+
+### DevOps Best Practices
+- Experiment Tracking
+- Model Registry
+- Model/Data Monitoring
+- Data Validation
+- Linting
+- Formatting
+- Testing
+- Error Handling
+- Pre-Commit
+- Infrastructure as Code (IaC)
+- Continuous Integration/Continuous Deployment (CI/CD)
 
 🧮 Tech Stack
 Visual Studio Code HTML5 CSS3 Jupyter Notebook MySQL SQLite Tableau PowerBI Looker Studio Python Pandas NumPy Plotly Matplotlib Databricks Spark scikit-learn TensorFlow OpenAI FastAPI Flask Docker Kubernetes Anaconda Linux Ubuntu Google Cloud AWS Terraform Prefect dbt MLflow GitHub Actions Git Streamlit
