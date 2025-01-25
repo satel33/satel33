@@ -58,45 +58,11 @@ Innovative AI/ML Engineer and dynamic Data Scientist providing a diverse range o
 
  ## Table of Contents
 
-| Section | Description |
-|---------|-------------|
-| Introduction | 
-                   Brief 
-                overview of the  |
-                   project       |
-| Installation | Steps to install and set up the project |
-| Usage | How to use the project or its main features |
-| Contributing | Guidelines for contributing to the project |
-| License | License information |
-
-# ML/MLOps Projects
-
-## Project Name: MLOps Credit Default
-
-### Main Libraries/Tools
-- Scikit-learn
-- LightGBM
-- MLflow
-- Databricks
-
-### Cloud Service
-- AWS / Databricks
-
-### App
-- [MLOps Credit Default](#)
-
-### DevOps Best Practices
-- Experiment Tracking
-- Model Registry
-- Model/Data Monitoring
-- Data Validation
-- Linting
-- Formatting
-- Testing
-- Error Handling
-- Pre-Commit
-- Infrastructure as Code (IaC)
-- Continuous Integration/Continuous Deployment (CI/CD)
+| Category | Skills | Projects |
+|----------|--------|----------|
+| Programming Languages | • Python<br>• Java<br>• JavaScript | [Language Showcase](https://github.com/example/language-showcase) |
+| Frameworks | • [React](https://reactjs.org/)<br>• [Django](https://www.djangoproject.com/)<br>• [Express.js](https://expressjs.com/) | • [Web App](https://github.com/example/web-app)<br>• [API Service](https://github.com/example/api-service) |
+| Tools | • Git<br>• Docker<br>• Jenkins | [DevOps Pipeline](https://github.com/example/devops-pipeline) |
 
 🧮 Tech Stack
 Visual Studio Code HTML5 CSS3 Jupyter Notebook MySQL SQLite Tableau PowerBI Looker Studio Python Pandas NumPy Plotly Matplotlib Databricks Spark scikit-learn TensorFlow OpenAI FastAPI Flask Docker Kubernetes Anaconda Linux Ubuntu Google Cloud AWS Terraform Prefect dbt MLflow GitHub Actions Git Streamlit
