@@ -86,36 +86,42 @@ Innovative AI/ML Engineer and dynamic Data Scientist providing a diverse range o
 |----------|--------|----------|----------|--------------|
 | ML/MLOps |  |  |  |  |
 | [MLOps Credit Default](https://github.com/satel33/MLOps-Credit-Default) | Scikit-learn<br>LightGBM<br>MLflow | AWS/Databricks | | Experiment Tracking<br>Model Registry<br>Model/Data Monitoring<br>Data Validation<br>Linting<br>Formatting<br>Testing<br>Error Handling<br>Pre-Commit<br>IaC<br>CI/CD|
-| [Medical Insurance Costs Prediction]([https://github.com/satel33/MLOps-Credit-Default](https://github.com/satel33/MLOps-Aws-Insurance)) | Scikit-learn<br>TensorFlow<br>SageMaker<br>Comet ML<br>Flask | AWS | | Experiment Tracking<br>Model Registry<br>Model/Data Monitoring<br>Model/Data<br>Linting<br>Formatting<br>Testing<br>Error Handling<br>Coverage<br>IaC<br>CI/CD|
-| [Stroke Prediction](https://github.com/satel33/Stroke-Prediction)) | Scikit-learn<br>XGBoost<br>SageMaker<br>Comet ML<br>Flask<br>Docker | AWS | | Experiment Tracking<br>Model Registry<br>Model Monitoring<br>Containerization<br>Testing<br>Error Handling |
-| [Car Price Prediction](https://github.com/satel33/Car-Price-Prediction)) | Scikit-learn<br>TensorFlow<br>MLFlow<br>Prefect<br>Flask<br>Docker<br>Grafana<br>Terraform | AWS | | Experiment Tracking<br>Model Registry<br>Model Monitoring<br>Orchestration<br>
+| [Medical Insurance Costs Prediction](https://github.com/satel33/MLOps-Aws-Insurance) | Scikit-learn<br>TensorFlow<br>SageMaker<br>Comet ML<br>Flask | AWS | | Experiment Tracking<br>Model Registry<br>Model/Data Monitoring<br>Model/Data<br>Linting<br>Formatting<br>Testing<br>Error Handling<br>Coverage<br>IaC<br>CI/CD|
+| [Stroke Prediction](https://github.com/satel33/Stroke-Prediction) | Scikit-learn<br>XGBoost<br>SageMaker<br>Comet ML<br>Flask<br>Docker | AWS | | Experiment Tracking<br>Model Registry<br>Model Monitoring<br>Containerization<br>Testing<br>Error Handling |
+| [Car Price Prediction](https://github.com/satel33/Car-Price-Prediction) | Scikit-learn<br>TensorFlow<br>MLFlow<br>Prefect<br>Flask<br>Docker<br>Grafana<br>Terraform | AWS | | Experiment Tracking<br>Model Registry<br>Model Monitoring<br>Orchestration<br>
 Containerization<br>Linting<br>Formatting<br>Testing<br>Error Handling<br>IaC<br>CI/CD |
-| [Taxi Rides Prediction]([https://github.com/satel33/Taxi-Rides-Prediction)) | Scikit-learn<br>TensorFlow<br>MLFlow<br>Prefect<br>FastAPI<br>Docker | GCP | | Experiment Tracking<br>Model Registry<br>Model Monitoring<br>Orchestration<br>
+| [Taxi Rides Prediction](https://github.com/satel33/Taxi-Rides-Prediction) | Scikit-learn<br>TensorFlow<br>MLFlow<br>Prefect<br>FastAPI<br>Docker | GCP | | Experiment Tracking<br>Model Registry<br>Model Monitoring<br>Orchestration<br>
 Containerization<br>Error Handling |
-| [Music Clustering]([https://github.com/satel33/Music-Clustering)) | Scikit-learn<br>FastAPI<br>Docker | GCP | Streamlit | Experiment Tracking<br>Model Registry<br>Model Monitoring<br>Orchestration<br>ContainerizationError Handling |
-| [Birds Classification]([https://github.com/satel33/Birds-Classification)) | Pytorch | | Gradio |  |
-| [Food Prediction]([https://github.com/satel33/Food-Prediction)) | Scikit-learn<br>TensorFlow<br>OpenCV<br>FastAPI<br>Docker | GCP | Streamlit | Containerization |
+| [Music Clustering](https://github.com/satel33/Music-Clustering) | Scikit-learn<br>FastAPI<br>Docker | GCP | Streamlit | Experiment Tracking<br>Model Registry<br>Model Monitoring<br>Orchestration<br>ContainerizationError Handling |
+| [Birds Classification](https://github.com/satel33/Birds-Classification) | Pytorch | | Gradio |  |
+| [Food Prediction](https://github.com/satel33/Food-Prediction) | Scikit-learn<br>TensorFlow<br>OpenCV<br>FastAPI<br>Docker | GCP | Streamlit | Containerization |
 | LLM, RAG and Fine-tuning |  |  |  |  |
-| [RAG Hybrid Search and Semantic Caching]([https://github.com/satel33/RAG-Hybrid-Search-and-Semantic-Caching)) | Qdrant<br>FastEmbed<br>SPLADE<br>Hugging Face Transformers |  |  | Error Handling<br>Linting<br>Formatting |
-| [Multimodal Bill Scan System]([https://github.com/satel33/Multimodal-Bill-Scan-System)) | AWS Bedrock<br>AWS DynamoDB<br>AWS SQS/SNS<br>AWS CDK<br>Claude 3 Sonnet | AWS |  | Error Handling<br>Linting<br>Formatting<br>IaC |
-| [IaC in RAG Applications with Terraform]([https://github.com/satel33/IaC-in-RAG-Applications-with-Terraform)) | AWS Bedrock<br>LangChain<br>AWS Opensearch<br>Terraform<br>Titan | AWS |  | Testing<br>Error Handling<br>Linting<br>Formatting<br>IaC |
-| [Scalable RAG in AWS with Fargate]([https://github.com/satel33/Scalable-RAG-in-AWS-with-Fargate)) | OpenAI<br>LlamaIndex<br>Qdrant<br>AWS CDK/Fargate<br>FastAPI | AWS |  | Testing<br>Error Handling |
-| [RAG Deployment with Azure Functions]([https://github.com/satel33/RAG-Deployment-with-Azure-Functions)) | OpenAI<br>LangChain<br>Qdrant<br>Azure Functions App | Azure |  | Linting<br>Formatting<br>Testing<br>Error Handling<br>Error Handling |
-| [Scalable RAG with Kubernetes]([https://github.com/satel33/Scalable-RAG-with-Kubernetes)) | OpenAI<br>LlamaIndex<br>Qdrant<br>Docker<br>FastAPI<br>GKE | GCP | Streamlit | Containerization<br>Linting<br>Formatting<br>Testing<br>Error Handling<br>CI/CD |
-| [Research Papers Semantic Search]([https://github.com/satel33/Research-Papers-Semantic-Search)) | OpenAI<br>LangChain<br>Qdrant<br>Docker<br>AWS API Gateway | AWS | Streamlit | Containerization<br>Linting<br>Formatting<br>Testing<br>Error Handling |
-| [Video Summarization]([https://github.com/satel33/Video-Summarization)) | Hugging Face Transformers<br>Whisper<br>Langchain<br>ChromaDB |  | Streamlit | Error Handling |
-| [Multimodal RAG with Video Frames]([https://github.com/satel33/Multimodal-RAG-with-Video-Frames)) | Gemini<br>LlamaIndex<br>Qdrant |  |  |  |
-| [Books Reranking Semantic Search]([https://github.com/satel33/Books-Reranking-Semantic-Search)) | OpenAI<br>LlamaIndex<br>Deep Lake |  |  |  |
-| [RAG Evaluation with Ragas]([https://github.com/satel33/RAG-Evaluation-with-Ragas)) | OpenAI<br>Hugging Face Transformers<br>Faiss<br>LangChain<br>Ragas |  |  |  |
-| [PII RAG LlamaIndex Milvus]([https://github.com/satel33/PII-RAG-LlamaIndex-Milvus)) | OpenAI<br>Presidio<br>LlamaIndex<br>Milvus |  |  |  |
-| [Multimodal RAG with PyMuPDF]([https://github.com/satel33/Multimodal-RAG-with-PyMuPDF)) | OpenAI<br>Qdrant<br>LlamaIndex<br>PyMuPDF |  |  |  |
-| [Agentic RAG LlamaIndex Milvus]([https://github.com/satel33/Agentic-RAG-LlamaIndex-Milvus)) | OpenAI<br>Claude<br>LlamaIndex<br>Milvus |  |  |  |
-| [Agentic RAG with LangChain]([https://github.com/satel33/Agentic-RAG-with-LangChain)) | OpenAI<br>Groq<br>LangChain<br>Pinecone |  |  |  |
-| [Agentic RAG with CrewAI]([https://github.com/satel33/Agentic-RAG-with-CrewAI)) | OpenAI<br>LangChain<br>Qdrant<br>CrewAI Agents |  |  |  |
-| [Fine Tuning Gemma 2B]([https://github.com/satel33/Fine-Tuning-Gemma-2B)) | 	Hugging Face Transformers<br>PEFT (LoRA/QLoRA) | HuggingFace |  |  |
+| [RAG Hybrid Search and Semantic Caching](https://github.com/satel33/RAG-Hybrid-Search-and-Semantic-Caching) | Qdrant<br>FastEmbed<br>SPLADE<br>Hugging Face Transformers |  |  | Error Handling<br>Linting<br>Formatting |
+| [Multimodal Bill Scan System](https://github.com/satel33/Multimodal-Bill-Scan-System) | AWS Bedrock<br>AWS DynamoDB<br>AWS SQS/SNS<br>AWS CDK<br>Claude 3 Sonnet | AWS |  | Error Handling<br>Linting<br>Formatting<br>IaC |
+| [IaC in RAG Applications with Terraform](https://github.com/satel33/IaC-in-RAG-Applications-with-Terraform) | AWS Bedrock<br>LangChain<br>AWS Opensearch<br>Terraform<br>Titan | AWS |  | Testing<br>Error Handling<br>Linting<br>Formatting<br>IaC |
+| [Scalable RAG in AWS with Fargate](https://github.com/satel33/Scalable-RAG-in-AWS-with-Fargate) | OpenAI<br>LlamaIndex<br>Qdrant<br>AWS CDK/Fargate<br>FastAPI | AWS |  | Testing<br>Error Handling |
+| [RAG Deployment with Azure Functions](https://github.com/satel33/RAG-Deployment-with-Azure-Functions) | OpenAI<br>LangChain<br>Qdrant<br>Azure Functions App | Azure |  | Linting<br>Formatting<br>Testing<br>Error Handling<br>Error Handling |
+| [Scalable RAG with Kubernetes](https://github.com/satel33/Scalable-RAG-with-Kubernetes) | OpenAI<br>LlamaIndex<br>Qdrant<br>Docker<br>FastAPI<br>GKE | GCP | Streamlit | Containerization<br>Linting<br>Formatting<br>Testing<br>Error Handling<br>CI/CD |
+| [Research Papers Semantic Search](https://github.com/satel33/Research-Papers-Semantic-Search) | OpenAI<br>LangChain<br>Qdrant<br>Docker<br>AWS API Gateway | AWS | Streamlit | Containerization<br>Linting<br>Formatting<br>Testing<br>Error Handling |
+| [Video Summarization](https://github.com/satel33/Video-Summarization) | Hugging Face Transformers<br>Whisper<br>Langchain<br>ChromaDB |  | Streamlit | Error Handling |
+| [Multimodal RAG with Video Frames](https://github.com/satel33/Multimodal-RAG-with-Video-Frames) | Gemini<br>LlamaIndex<br>Qdrant |  |  |  |
+| [Books Reranking Semantic Search](https://github.com/satel33/Books-Reranking-Semantic-Search) | OpenAI<br>LlamaIndex<br>Deep Lake |  |  |  |
+| [RAG Evaluation with Ragas](https://github.com/satel33/RAG-Evaluation-with-Ragas) | OpenAI<br>Hugging Face Transformers<br>Faiss<br>LangChain<br>Ragas |  |  |  |
+| [PII RAG LlamaIndex Milvus](https://github.com/satel33/PII-RAG-LlamaIndex-Milvus) | OpenAI<br>Presidio<br>LlamaIndex<br>Milvus |  |  |  |
+| [Multimodal RAG with PyMuPDF](https://github.com/satel33/Multimodal-RAG-with-PyMuPDF) | OpenAI<br>Qdrant<br>LlamaIndex<br>PyMuPDF |  |  |  |
+| [Agentic RAG LlamaIndex Milvus](https://github.com/satel33/Agentic-RAG-LlamaIndex-Milvus) | OpenAI<br>Claude<br>LlamaIndex<br>Milvus |  |  |  |
+| [Agentic RAG with LangChain](https://github.com/satel33/Agentic-RAG-with-LangChain) | OpenAI<br>Groq<br>LangChain<br>Pinecone |  |  |  |
+| [Agentic RAG with CrewAI](https://github.com/satel33/Agentic-RAG-with-CrewAI) | OpenAI<br>LangChain<br>Qdrant<br>CrewAI Agents |  |  |  |
+| [Fine Tuning Gemma 2B](https://github.com/satel33/Fine-Tuning-Gemma-2B) | 	Hugging Face Transformers<br>PEFT (LoRA/QLoRA) | HuggingFace |  |  |
 | Data Analysis + Modeling | 	 |  |  |  |
-| News Classification | 	Scikit-learn (Multinomial Naive Bayes)<br>Tensorflow (CNN, RNN, feedforward) |  | Streamlit |  |
-| [Breast Cancer Classification] | 	Scikit-learn (Multinomial Naive Bayes)<br>Tensorflow (CNN, RNN, feedforward) |  | Streamlit |  |
+| [News Classification](https://github.com/satel33/News-Classification) | 	Scikit-learn (Multinomial Naive Bayes)<br>Tensorflow (CNN, RNN, feedforward) |  | Streamlit |  |
+| [Breast Cancer Classification](https://github.com/satel33/Breast-Cancer-Classification) | 	Scikit-learn<br>Spark | IBM  |  |  |
+| [Bank Churn Classification](https://github.com/satel33/Bank-Churn-Classification) | 	Scikit-learn<br>LightGBM<br>XGBoost<br>CatBoost | |  |  |
+| Data Engineering |  | |  |  |
+| [Hotel Reviews](https://github.com/satel33/Hotel-Reviews) | Prefect<br>Spark<br>SQL<br>BigQuery<br>dbt<br>Terraform<br>Looker | GCP |  | Orchestration<br>Linting<br>Formatting<br>Error Handling<br>Pre-Commit<br>IaC<br>CI/CD |
+| [Air Quality Switzerland](https://github.com/satel33/Air-Quality-Switzerland) | Mage<br>dbt<br>SQL<br>BigQuery<br>Docker<br>Terraform<br>Looker | GCP |  | Orchestration<br>IaC<br>Containerization<br>CI/CD |
+| Miscellaneous |  |  |  |  |
+| [Justicio Web Scraping](https://github.com/satel33/Justicio-Web-Scraping) | Beautiful Soup<br>MySQL |  |  | Error Handling |
 
 
 ## 🧮 Tech Stack
