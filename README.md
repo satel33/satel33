@@ -1,8 +1,8 @@
-## Sr, AI/ML Engineer, MLOps System Designer, Tech Lead
+#### Sr, AI/ML Engineer, MLOps System Designer, Tech Lead
 <hr>
 
 
-##### Languages
+## Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
@@ -15,7 +15,7 @@
 
 
 
-##### Technologies
+## Technologies
 
 
 ![ML](https://img.shields.io/badge/ML-8A2BE2)
@@ -43,7 +43,7 @@
 <br>
 
 
-##### 👨‍💻 My Profile
+## 👨‍💻 My Profile
 Innovative AI/ML Engineer and dynamic Data Scientist providing a diverse range of services, including project development, teaching, workshops, technical writing, and career coaching. My skill set includes (not limited to):
 
  
@@ -81,13 +81,14 @@ Innovative AI/ML Engineer and dynamic Data Scientist providing a diverse range o
 
 
 
-##### 📄 Projects Portfolio
+## 📄 Projects Portfolio
 💰 My end-to-end projects can be found in these repositories. Feel free to click ⭐ if you like them 😎
 
  ## Table of Contents
 
-| Category | Skills | Projects |
-|----------|--------|----------|
+| Project Name | Main Libraries | Cloud Service | App | DevOps Best Practice |
+|----------|--------|----------|----------|--------------|
+| ML/MLOps |  |  |  |  |
 | Programming Languages | • Python<br>• Java<br>• JavaScript | [Language Showcase](https://github.com/example/language-showcase) |
 | Frameworks | • [React](https://reactjs.org/)<br>• [Django](https://www.djangoproject.com/)<br>• [Express.js](https://expressjs.com/) | • [Web App](https://github.com/example/web-app)<br>• [API Service](https://github.com/example/api-service) |
 | Tools | • Git<br>• Docker<br>• Jenkins | [DevOps Pipeline](https://github.com/example/devops-pipeline) |
