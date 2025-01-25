@@ -74,10 +74,7 @@ Innovative AI/ML Engineer and dynamic Data Scientist providing a diverse range o
 
 ✅ **Streaming**: Apache Kafka, Bytewax, CDC pattern, RabbitMQ, GCP pub/sub
 
-
-
-
-
+<br>
 
 
 
@@ -89,7 +86,7 @@ Innovative AI/ML Engineer and dynamic Data Scientist providing a diverse range o
 | Project Name | Main Libraries | Cloud Service | App | DevOps Best Practice |
 |----------|--------|----------|----------|--------------|
 | ML/MLOps |  |  |  |  |
-| Programming Languages | • Python<br>• Java<br>• JavaScript | [Language Showcase](https://github.com/example/language-showcase) |
+| [MLOps Credit Default](https://github.com/satel33/MLOps-Credit-Default) | Scikit-learn<br>LightGBM<br>MLflow | AWS/Databricks | | Experiment Tracking<br>Model Registry<br>Model/Data Monitoring<br>Data Validation<br>Linting<br>Formatting<br>Testing<br>Error Handling<br>Pre-Commit<br>IaC<br>CI/CD|
 | Frameworks | • [React](https://reactjs.org/)<br>• [Django](https://www.djangoproject.com/)<br>• [Express.js](https://expressjs.com/) | • [Web App](https://github.com/example/web-app)<br>• [API Service](https://github.com/example/api-service) |
 | Tools | • Git<br>• Docker<br>• Jenkins | [DevOps Pipeline](https://github.com/example/devops-pipeline) |
 
