@@ -32,22 +32,30 @@ Innovative AI/ML Engineer and dynamic Data Scientist providing a diverse range o
 
 ✅ **ML Architecture**: Feature/Training/Inference pipeline Architecture, Online Real-time pipeline/Asynchronous pipeline/Batch ML serving architecture, 4-stage architecture, Two-tower model (flexible neural network design)
 
-✅ Key Domains: Regression, Classification, NLP, LLM, RAG, Computer Vision, Neural Networks, Ensemble Methods, Clustering, Dimensionality Reduction
-✅ Data Engineering: dbt, Terraform, SQL, BigQuery, PySpark, Databricks
-✅ MLOps: AWS(AWS SageMaker, Fargate, lambda, S3 Bucket, SQS, VPN), GCP(Vertex AI, GCR, GKE, GCS, pub/sub), Azure(Data Factory, SQL Data Warehouse, Synapse), Cosmos DB, W&B, MLFlow, Comet ML,Qwak, Databricks, Apache Spark, Kafka, Bytewax
-✅ LLM: OpenAI, Anthropic, Azure, Llama-3, Mistral, Multi-modal LLM(TTS/STT/VST/AST), SDXL, Gemini, Perplexity, RAG, TAG, KAG
-✅ APIs: Flask, FastAPI
-✅ Apps: Streamlit, Gradio
-✅ Cloud Platforms: GCP, AWS, Azure
-✅ CI/CD: Git, GitLab, Jenkins, Docker, Kubernetes, CircleCI, Terraform, CDK, Pulumi
-✅ Orchestrator: Docker Swarm, ECS, K8s, Airflow, Kubeflow, ZenML, PipeDream
-✅ Streaming: Apache Kafka, Bytewax, CDC pattern, RabbitMQ, GCP pub/sub
+✅ **Key Domains**: Regression, Classification, NLP, LLM, RAG, Computer Vision, Neural Networks, Ensemble Methods, Clustering, Dimensionality Reduction
+✅ **Data Engineering**: dbt, Terraform, SQL, BigQuery, PySpark, Databricks
+✅ **MLOps**: AWS(AWS SageMaker, Fargate, lambda, S3 Bucket, SQS, VPN), GCP(Vertex AI, GCR, GKE, GCS, pub/sub), Azure(Data Factory, SQL Data Warehouse, Synapse), Cosmos DB, W&B, MLFlow, Comet ML,Qwak, Databricks, Apache Spark, Kafka, Bytewax
+✅ **LLM**: OpenAI, Anthropic, Azure, Llama-3, Mistral, Multi-modal LLM(TTS/STT/VST/AST), SDXL, Gemini, Perplexity, RAG, TAG, KAG
+✅ **APIs**: Flask, FastAPI
+✅ **Apps**: Streamlit, Gradio
+✅ **Cloud Platforms**: GCP, AWS, Azure
+✅ **CI/CD**: Git, GitLab, Jenkins, Docker, Kubernetes, CircleCI, Terraform, CDK, Pulumi
+✅ **Orchestrator**: Docker Swarm, ECS, K8s, Airflow, Kubeflow, ZenML, PipeDream
+✅ **Streaming**: Apache Kafka, Bytewax, CDC pattern, RabbitMQ, GCP pub/sub
 
 
 📄 Projects Portfolio
 💰 My end-to-end projects can be found in these repositories. Feel free to click ⭐ if you like them 😎
 
- 
+ ## Table of Contents
+
+| Section | Description |
+|---------|-------------|
+| Introduction | Brief overview of the project |
+| Installation | Steps to install and set up the project |
+| Usage | How to use the project or its main features |
+| Contributing | Guidelines for contributing to the project |
+| License | License information |
 
 
 
