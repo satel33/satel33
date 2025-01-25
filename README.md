@@ -60,7 +60,10 @@ Innovative AI/ML Engineer and dynamic Data Scientist providing a diverse range o
 
 | Section | Description |
 |---------|-------------|
-| Introduction | Brief overview of the project |
+| Introduction | 
+                   Brief 
+                overview of the  |
+                   project       |
 | Installation | Steps to install and set up the project |
 | Usage | How to use the project or its main features |
 | Contributing | Guidelines for contributing to the project |
