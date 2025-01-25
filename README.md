@@ -1,13 +1,18 @@
-## Sr, AI/ML Engineer, MLOps System Designer, Tech Lead
+### Sr, AI/ML Engineer, MLOps System Designer, Tech Lead
 
 ### Languages
 
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+
+<br>
+
+
+
 
 ### Technologies
 
@@ -20,6 +25,8 @@
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 
+
+
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/tensorflow-icon.svg" alt="Tensorflow" width="40" height="40"/>
@@ -31,8 +38,12 @@
 
 <a href="https://satel.vercel.app/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
-###👨‍💻 My Profile
+<br>
+
+
+### 👨‍💻 My Profile
 Innovative AI/ML Engineer and dynamic Data Scientist providing a diverse range of services, including project development, teaching, workshops, technical writing, and career coaching. My skill set includes (not limited to):
+
  
 
 ✅ **Programming Languages**: Python, Java, Rust, JavaScript, C++
@@ -60,6 +71,12 @@ Innovative AI/ML Engineer and dynamic Data Scientist providing a diverse range o
 ✅ **Orchestrator**: Docker Swarm, ECS, K8s, Airflow, Kubeflow, ZenML, PipeDream
 
 ✅ **Streaming**: Apache Kafka, Bytewax, CDC pattern, RabbitMQ, GCP pub/sub
+
+
+
+
+
+
 
 
 ### 📄 Projects Portfolio
